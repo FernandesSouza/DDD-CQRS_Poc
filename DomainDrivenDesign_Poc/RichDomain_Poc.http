@@ -1,0 +1,6 @@
+@RichDomain_Poc_HostAddress = http://localhost:5166
+
+GET {{RichDomain_Poc_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

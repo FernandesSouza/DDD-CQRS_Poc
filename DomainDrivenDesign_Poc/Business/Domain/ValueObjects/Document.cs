@@ -1,0 +1,8 @@
+using DomainDrivenDesign_Poc.Business.Domain.Entities.Base;
+
+namespace DomainDrivenDesign_Poc.Business.Domain.ValueObjects;
+
+public sealed class Document(string value) : Entity
+{
+    public string Value { get; set; } = value;
+}

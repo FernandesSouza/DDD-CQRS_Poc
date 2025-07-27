@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "f2jyKoAeweE9mUrjlTiv/WC3NYGtO+yYiqC2VRqsVYo=",
+  "Source": "DomainDrivenDesign_Poc",
+  "BasePath": "_content/DomainDrivenDesign_Poc",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

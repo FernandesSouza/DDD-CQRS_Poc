@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\DomainDrivenDesign_Poc.props" />
+</Project>
